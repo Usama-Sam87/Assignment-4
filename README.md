@@ -1,5 +1,5 @@
-# Assignment-4
-
+# Assignment-4 
+# Testing and Test Automation in AI and ML
 
 Testing machine learning projects is challenging and there is no one standard way of doing it. Due to the fact that ML projects are heavily dependent on data and models that cannot be strongly specified as learnig  network, testing ML projects is a more complex challenge than testing traditional softwares. In contrast to most conventional software tests, ML project tests have to include data tests, model tests, as well as tests in production.
 First of all, ML projects have a lot more uncertainty than traditional software. In many cases, we don’t know if the project is even technically possible and what will be results (like a result can be in a range), so we have to give some time to conduct research and give an answer for this problem as well. This uncertainty harms good software practices such as testing because we don’t want to spend time on testing ML projects in an early stage of development, which might not receive the GO signal for further continuation.
